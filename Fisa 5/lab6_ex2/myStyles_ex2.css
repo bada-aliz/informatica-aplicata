@@ -1,0 +1,19 @@
+h1 {
+text-align: center;
+}
+th {
+    text-align: left;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    border-radius: 50px;
+    width: 500px;
+}
+
+#titlu {
+    font-style: oblique;
+}
